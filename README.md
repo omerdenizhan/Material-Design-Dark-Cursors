@@ -1,4 +1,4 @@
-<p align="center"><img src="logo-main.png" alt="Logo"></p>
+<p align="center"><img src="logo-main.jpg" alt="Logo"></p>
 <h1 align="center">⭐ Regedit Compilations ⭐</h1>
 
 I'm presenting to you the registry compiled files that I created for use on my personal computer.
