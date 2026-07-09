@@ -8,7 +8,7 @@ Icon Pack designed with Inkscape and RealWorld Cursor Editor.
 You can use it on Windows 7/8/10/11 operating systems.
 
 ## 📌 How to Use
-You can use it by downloading the compilations.reg file to your computer or by downloading the file inside the releases folder and running it as administrator.
+You can download the Cursors folder to your computer, right-click the setup.inf installation file and select install, or download the file from the releases folder and run it as administrator.
 
 ---
 
