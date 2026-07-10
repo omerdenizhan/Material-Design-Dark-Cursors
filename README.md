@@ -2,7 +2,9 @@
 <h1 align="center">⭐ Material Design Dark Cursors ⭐</h1>
 
 Material Design allows you to use dark cursors.
+
 Icon Pack designed with Inkscape and RealWorld Cursor Editor.
+
 You can use it on Windows 7/8/10/11 operating systems.
 
 ## 📌 How to Use
