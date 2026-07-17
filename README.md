@@ -1,7 +1,7 @@
-<p align="center"><img src="logo-main.jpg" alt="Material Design Dark Cursors"></p>
+<p align="center"><img src="logo-main.jpg" alt="Logo"></p>
 <h1 align="center">⭐ Material Design Dark Cursors ⭐</h1>
 
-Material Design allows you to use dark cursors. Icon Pack designed with Inkscape and RealWorld Cursor Editor.
+Material Design allows you to use dark cursors. A redesigned animated cursor pack.
 
 You can use it on Windows 7/8/10/11 operating systems.
 
