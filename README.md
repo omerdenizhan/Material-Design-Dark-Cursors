@@ -1,4 +1,4 @@
-<p align="center"><img src="logo-main.jpg" alt="Logo"></p>
+<p align="center"><img src="logo-main.jpg" alt="Material Design Dark Cursors"></p>
 <h1 align="center">⭐ Material Design Dark Cursors ⭐</h1>
 
 Material Design allows you to use dark cursors. Icon Pack designed with Inkscape and RealWorld Cursor Editor.
