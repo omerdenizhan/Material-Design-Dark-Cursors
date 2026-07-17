@@ -4,7 +4,7 @@ Material Design Dark Cursors Pack By DenizhaN
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur
-AddReg    = Scheme.Reg,Wreg
+AddReg = Scheme.Reg,Wreg
 
 [DestinationDirs]
 Scheme.Cur = 10,"%CUR_DIR%"
